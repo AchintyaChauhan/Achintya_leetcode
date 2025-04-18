@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
