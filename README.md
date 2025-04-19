@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0135-candy) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Stack
+|  |
+| ------- |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
