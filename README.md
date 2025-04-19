@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Math
+|  |
+| ------- |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 <!---LeetCode Topics End-->
