@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
