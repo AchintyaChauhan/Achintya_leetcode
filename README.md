@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
