@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
