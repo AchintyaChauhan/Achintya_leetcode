@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Math
 |  |
 | ------- |
