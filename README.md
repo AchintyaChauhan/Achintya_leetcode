@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0135-candy) |
+| [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1500-count-largest-group](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1500-count-largest-group) |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
