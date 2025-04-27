@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Trie
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
