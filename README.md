@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3292-earliest-second-to-mark-indices-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3738-make-array-non-decreasing) |
 ## String
 |  |
