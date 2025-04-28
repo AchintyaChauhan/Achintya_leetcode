@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+## Matrix
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
