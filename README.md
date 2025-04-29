@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0135-candy) |
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
