@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1500-count-largest-group) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sorting
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
