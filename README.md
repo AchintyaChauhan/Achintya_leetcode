@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0307-range-sum-query-mutable) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
