@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Union Find
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+## Graph
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
