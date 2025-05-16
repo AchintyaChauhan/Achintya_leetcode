@@ -1,47 +1,42 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        int n =grid.size();
-        int m=grid[0].size();
-        
-       if (n == 1 && m == 1 && grid[0][0] == 0) {
-            return 1;
-        }
+        int n = grid.size();
+        int m = grid[0].size();
 
-        queue<pair<int,pair<int,int>>>q;
-
-        if(grid[0][0]==1||grid[n-1][m-1]==1){
+        if (grid[0][0] == 1 || grid[n-1][m-1] == 1)
             return -1;
-        }
-        vector<vector<int>>dist(n,vector<int>(m,1e9));
-        q.push({1,{0,0}});
 
-        vector<pair<int,int>>dir={{0,1},{0,-1},{1,0},{-1,0},{1,1},{1,-1},{-1,1},{-1,-1}};
+        if (n == 1 && m == 1 && grid[0][0] == 0)
+            return 1;
 
-        while(!q.empty()){
-            int dis=q.front().first;
-            auto[i,j]=q.front().second;
+        vector<vector<int>> dis(n, vector<int>(m, 1e9));
+        queue<pair<int, pair<int, int>>> q;
+        vector<pair<int, int>> dir = {
+            {0, 1}, {0, -1}, {1, 0}, {-1, 0},
+            {1, 1}, {1, -1}, {-1, 1}, {-1, -1}
+        };
+
+        dis[0][0] = 1;  
+        q.push({1, {0, 0}});
+
+        while (!q.empty()) {
+            int d = q.front().first;
+            int i = q.front().second.first;
+            int j = q.front().second.second;
             q.pop();
 
-            for(auto it:dir){
-                int x=i+it.first;
-                int y=j+it.second;
-                if(x>=0 && x<n && y>=0 && y<m && grid[x][y]==0){
-                    if(dis+1<dist[x][y]){
-                        dist[x][y]=dis+1;
-                        q.push({dist[x][y],{x,y}});
-                    }
+            for (auto it : dir) {
+                int x = i + it.first;
+                int y = j + it.second;
+
+            if (x >= 0 && x < n && y >= 0 && y < m && grid[x][y] == 0 && dis[x][y] > d + 1) {
+                    dis[x][y] = d + 1;
+                    q.push({d + 1, {x, y}});
                 }
-
-
             }
         }
 
-        if(dist[n-1][m-1]!=1e9){
-            return dist[n-1][m-1];
-        }
-
-        return -1;
-        
+        return (dis[n-1][m-1] == 1e9) ? -1 : dis[n-1][m-1];
     }
 };
