@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Design
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
