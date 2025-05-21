@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0075-sort-colors) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -210,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Graph
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
