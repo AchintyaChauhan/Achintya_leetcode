@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3194-find-words-containing-character) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3639-zero-array-transformation-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3194-find-words-containing-character](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3194-find-words-containing-character) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
@@ -221,8 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
