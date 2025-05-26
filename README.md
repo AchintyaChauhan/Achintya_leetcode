@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1500-count-largest-group) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
@@ -232,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
