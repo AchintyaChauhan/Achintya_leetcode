@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
