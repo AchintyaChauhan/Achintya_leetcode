@@ -1,32 +1,32 @@
 class Solution {
 public:
-    int candy(vector<int>& ratings) {
-        int n = ratings.size();
-        int i = 1, ans = n;
+    int candy(vector<int>& nums) {
+        int n=nums.size();
+        int count=0;
+        vector<int>ans(n,0);
+        ans[0]=1;
 
-        while (i < n) {
-            if (ratings[i] == ratings[i - 1]) {
-                i++;
-                continue;
+        for(int i=1;i<n;i++){
+            if(nums[i]>nums[i-1]){
+                ans[i]=1+ans[i-1];
             }
-
-            int inc = 0;
-            while (i < n && ratings[i] > ratings[i - 1]) {
-                inc++;
-                ans += inc;
-                i++;
+            else{
+                ans[i]=1;
             }
-
-            int dec = 0;
-            while (i < n && ratings[i] < ratings[i - 1]) {
-                dec++;
-                ans += dec;
-                i++;
+        }
+        for(int i=n-2;i>=0;i--){
+            if(nums[i]>nums[i+1]){
+                // ans[i]=1+ans[i+1];
+                ans[i]=max(ans[i],1+ans[i+1]);
             }
-
-            ans -= min(inc, dec); 
+            
+        }
+        for(auto it:ans){
+            count+=it;
         }
 
-        return ans;
+        return count;
+
+        
     }
 };
