@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3292-earliest-second-to-mark-indices-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1762-furthest-building-you-can-reach](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
