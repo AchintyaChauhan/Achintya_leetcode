@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0989-largest-component-size-by-common-factor](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0989-largest-component-size-by-common-factor](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1500-count-largest-group](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1500-count-largest-group) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0989-largest-component-size-by-common-factor](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1500-count-largest-group](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1500-count-largest-group) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Sliding Window
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Graph
