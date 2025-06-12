@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AchintyaChauhan/Achintya_leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String
 |  |
 | ------- |
